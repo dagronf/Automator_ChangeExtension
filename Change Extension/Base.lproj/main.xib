@@ -34,8 +34,8 @@
                     </textFieldCell>
                 </textField>
                 <button fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rbY-Uw-UUY">
-                    <rect key="frame" x="207" y="10" width="175" height="20"/>
-                    <buttonCell key="cell" type="check" title="Leave original in place" bezelStyle="regularSquare" imagePosition="left" controlSize="small" state="on" inset="2" id="xDs-Av-sW0">
+                    <rect key="frame" x="207" y="10" width="176" height="20"/>
+                    <buttonCell key="cell" type="check" title="Leave original in place (copy)" bezelStyle="regularSquare" imagePosition="left" controlSize="small" inset="2" id="xDs-Av-sW0">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="smallSystem"/>
                     </buttonCell>
